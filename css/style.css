@@ -1,0 +1,19 @@
+/* ==footer start== */
+.header, .hero, .body, .footer{
+    margin-bottom: 10px;
+    background-color: rgb(37, 37, 128);
+}
+/* ==box color== */
+.box{
+    margin: 10px 0;
+    background-color: red;
+    min-height: 80px;
+    font-size: 30px;
+    color: white;
+}
+.lime{
+    background-color: lime;
+}
+.cblue{
+    background-color: blue;
+}
